@@ -1,0 +1,15 @@
+[project]
+name = "ai-product-integrity-system"
+version = "0.1.0"
+description = "AI-powered product listing integrity inspection system"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "google-genai>=3.6.1",
+    "pydantic>=2.14.4",
+    "python-dotenv>=1.2.4",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+]
