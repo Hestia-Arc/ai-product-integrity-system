@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "product_id": "CHAIR-003",
+      "title": "Garden Chair",
+      "description": "A comfortable garden chair.",
+      "category": "outdoor_furniture",
+      "attributes": {
+        "material": "teak wood",
+        "weight": "8 kg",
+        "weather_resistant": true
+      }
+    },
+    {
+      "product_id": "TABLE-003",
+      "title": "Garden Table",
+      "description": "A wooden garden table.",
+      "category": "outdoor_furniture",
+      "attributes": {
+        "material": "oak wood",
+        "weight": "15 kg"
+      }
+    }
+  ]
+}

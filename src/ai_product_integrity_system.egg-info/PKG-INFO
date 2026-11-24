@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: ai-product-integrity-system
+Version: 0.1.0
+Summary: AI-powered product listing integrity inspection system
+Requires-Python: <3.13,>=3.12
+Requires-Dist: google-genai>=3.6.1
+Requires-Dist: pydantic>=2.14.4
+Requires-Dist: python-dotenv>=1.2.4
+Requires-Dist: streamlit>=1.67.0
